@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi.., I am Rasika Wedaarachchi..!!👋
+
+#### Software Engineering Undergraduate, passionate about Web Development
 
 <!--
 **rasika51/rasika51** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
