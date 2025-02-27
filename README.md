@@ -1,5 +1,5 @@
 <h2 align="center">Hi, I'm Rasika Wedaarachchi 👋</h2>
-<h3 align="center">🎓 Undergraduate | 💻 Software Engineer in the Making | 🚀 Passionate Web Developer | 🇱🇰 Sri Lanka</h3>
+<h3 align="center">🎓 Undergraduate | 💻 Software Engineer in the Making | 🚀 Passionate Web Developer | Sri Lanka</h3>
 
 ---
 
