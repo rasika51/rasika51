@@ -3,11 +3,7 @@
 
 ---
 
-### 👨‍💻 Check Out My Portfolio:
-🔗 [Portfolio Website](https://rasika-wedaarachchi-portfolio.vercel.app/)
-
-### 📫 How to Reach Me:
-📩 [Email](mailto:wedaarachchirasika@gmail.com)
+### 👨‍💻 Check Out My Portfolio:   🔗 [Portfolio Website](https://rasika-wedaarachchi-portfolio.vercel.app/)   |   📫 Reach Me: 📩 [Email](mailto:wedaarachchirasika@gmail.com)
 
 ---
 
