@@ -69,9 +69,7 @@
 ---
 
 ### 📊 GitHub Stats:
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rasika51&show_icons=true&locale=en&layout=compact" alt="GitHub Stats" />
-</p>
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rasika51&show_icons=true&locale=en&layout=compact" alt="rasika51" /></p>
