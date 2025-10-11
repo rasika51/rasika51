@@ -3,8 +3,8 @@
 
 ---
 
-<h4 align="center">👨‍💻 Check Out My Portfolio: 🔗 [Portfolio Website](https://rasika-wedaarachchi-portfolio.vercel.app/) </h4>
-<h4 align="center">👨‍💻 Check Out My Portfolio: 📫 Reach Me: 📩 [Email](mailto:wedaarachchirasika@gmail.com) </h4>
+<h4 align="center">👨‍💻 Check Out My Portfolio: 🔗 https://rasika-wedaarachchi-portfolio.vercel.app/ </h4>
+<h4 align="center">📫 Reach Me: 📩 Email: wedaarachchirasika@gmail.com  </h4>
 
 
 ---
